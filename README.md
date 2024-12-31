@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hello! My name is **Sagar** (सागर), and I am a civil engineer and researcher from Kathmandu, Nepal (🇳🇵).  
+Hello! My name is **Sagar Khanal** (सागर खनाल), and I am a civil engineer and researcher from Kathmandu, Nepal (🇳🇵).  
 
 - 💻 I enjoy **coding**, **visualizing data**, and **automating processes** to streamline workflows and improve research outcomes.  
 
