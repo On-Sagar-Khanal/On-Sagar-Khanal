@@ -6,4 +6,4 @@ Hello! My name is **Sagar Khanal** (सागर खनाल), and I am a civil
 
 I am always open to new collaborations, so feel free to reach out via email. 
 
-📧 **Contact**: 075bce130@pcampus.edu.np  
+
